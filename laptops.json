@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Demo Compact 14",
+    "cpu_model": "Intel Core Ultra 5 (demo)",
+    "benchmark_score": 17500,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Arc Graphics (demo)",
+    "gpu_benchmark": 5200,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 11,
+    "display_type": "IPS",
+    "display_resolution": "1920x1200",
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.35,
+    "price": 3499,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_compact_14.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 3799,
+        "store_url": ""
+      },
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 3699,
+        "store_url": ""
+      }
+    ]
+  },
+  {
+    "name": "Demo Air 13",
+    "cpu_model": "Apple M-series (demo)",
+    "benchmark_score": 22000,
+    "ram": 16,
+    "storage": 256,
+    "gpu_model": "Apple integrated GPU (demo)",
+    "gpu_benchmark": 7200,
+    "gpu_tgp": null,
+    "battery_capacity": 53,
+    "battery_time": 14,
+    "display_type": "IPS",
+    "display_resolution": "2560x1664",
+    "display_size": 13.6,
+    "system": "macOS",
+    "weight": 1.24,
+    "price": 4499,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_air_13.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 512,
+        "price": 4899,
+        "store_url": ""
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 5399,
+        "store_url": ""
+      }
+    ]
+  },
+  {
+    "name": "Demo Office 15",
+    "cpu_model": "AMD Ryzen 5 (demo)",
+    "benchmark_score": 15500,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon integrated (demo)",
+    "gpu_benchmark": 4100,
+    "gpu_tgp": null,
+    "battery_capacity": 55,
+    "battery_time": 9,
+    "display_type": "IPS",
+    "display_resolution": "1920x1080",
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.75,
+    "price": 2899,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_office_15.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 3199,
+        "store_url": ""
+      },
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 3099,
+        "store_url": ""
+      }
+    ]
+  },
+  {
+    "name": "Demo Creator 16",
+    "cpu_model": "Intel Core Ultra 7 (demo)",
+    "benchmark_score": 26500,
+    "ram": 32,
+    "storage": 1024,
+    "gpu_model": "NVIDIA RTX laptop GPU (demo)",
+    "gpu_benchmark": 16500,
+    "gpu_tgp": 100,
+    "battery_capacity": 80,
+    "battery_time": 7,
+    "display_type": "OLED",
+    "display_resolution": "3200x2000",
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 2.05,
+    "price": 6999,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_creator_16.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 64,
+        "storage": 1024,
+        "price": 7599,
+        "store_url": ""
+      },
+      {
+        "ram": 32,
+        "storage": 2048,
+        "price": 7499,
+        "store_url": ""
+      }
+    ]
+  },
+  {
+    "name": "Demo Gaming 16",
+    "cpu_model": "AMD Ryzen 7 (demo)",
+    "benchmark_score": 28000,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA RTX laptop GPU (demo)",
+    "gpu_benchmark": 19500,
+    "gpu_tgp": 140,
+    "battery_capacity": 90,
+    "battery_time": 5.5,
+    "display_type": "IPS",
+    "display_resolution": "2560x1600",
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 2.45,
+    "price": 5999,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_gaming_16.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 6299,
+        "store_url": ""
+      },
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6199,
+        "store_url": ""
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 6499,
+        "store_url": ""
+      }
+    ]
+  },
+  {
+    "name": "Demo Travel 14",
+    "cpu_model": "AMD Ryzen 7 (demo)",
+    "benchmark_score": 23000,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon integrated (demo)",
+    "gpu_benchmark": 6400,
+    "gpu_tgp": null,
+    "battery_capacity": 72,
+    "battery_time": 13,
+    "display_type": "OLED",
+    "display_resolution": "2880x1800",
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.28,
+    "price": 4799,
+    "description": "FIKCYJNY MODEL TESTOWY. Parametry, wyniki benchmarków i ceny są symulowane; nie stanowią rzeczywistej oferty.",
+    "image_url": "images/laptops/demo_travel_14.png",
+    "store_url": "",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5099,
+        "store_url": ""
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 5399,
+        "store_url": ""
+      }
+    ]
+  }
+]
