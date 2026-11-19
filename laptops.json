@@ -1,0 +1,2847 @@
+[
+  {
+    "name": "Acer Aspire 14 AI",
+    "cpu_model": "Ryzen AI 5-330",
+    "benchmark_score": 12700,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 820M",
+    "gpu_benchmark": 2200,
+    "gpu_tgp": null,
+    "battery_capacity": 65,
+    "battery_time": 18.5,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.27,
+    "price": 3249,
+    "description": "Model ten wyróżnia się wysoką kulturą wielozadaniowości i wysoką jakością obrazu w segmencie urządzeń do pracy biurowej oraz nauki.",
+    "image_url": "images/laptops/Acer Aspire 14 AI.png",
+    "store_url": "https://www.x-kom.pl/p/1474362-laptop-14-acer-aspire-14-ai-ryzen-ai-5-330-32gb-512-win11-oled.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 3949,
+        "store_url": "https://www.x-kom.pl/p/1474364-laptop-14-acer-aspire-14-ai-ryzen-ai-5-330-32gb-1tb-win11-oled.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 4799,
+        "store_url": "https://www.x-kom.pl/p/1520877-laptop-14-acer-aspire-14-ryzen-ai-5-330-32gb-2tb-win11-oled.html"
+      }
+    ]
+  },
+  {
+    "name": "Dell Inspiron 2in1 7440",
+    "cpu_model": "Intel Core i5-1334U",
+    "benchmark_score": 12950,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Iris Xe Graphics",
+    "gpu_benchmark": 2580,
+    "gpu_tgp": null,
+    "battery_capacity": 54,
+    "battery_time": 15,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 14,
+    "system": "Windows",
+    "weight": 1.75,
+    "price": 2999,
+    "description": "Urządzenie jest przeznaczone głównie do pracy biurowej, nauki i codziennego użytku mobilnego.",
+    "image_url": "images/laptops/Dell Inspiron 2in1 7440.png",
+    "store_url": "https://www.x-kom.pl/p/1470656-laptop-14-dell-inspiron-2in1-7440-i5-1334u-16gb-512-win11-touch.html",
+    "variants": [
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 4699,
+        "store_url": "https://www.x-kom.pl/p/1537611-laptop-14-dell-inspiron-2in1-7440-i5-1334u-24gb-512-win11-touch.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5299,
+        "store_url": "https://www.x-kom.pl/p/1470657-laptop-14-dell-inspiron-2in1-7440-i5-1334u-32gb-512-win11-touch.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo Yoga Slim 7-14",
+    "cpu_model": "Intel Core Ultra 5 226V",
+    "benchmark_score": 18000,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Arc Graphics 130V",
+    "gpu_benchmark": 4500,
+    "gpu_tgp": null,
+    "battery_capacity": 70,
+    "battery_time": 14,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14,
+    "system": "Windows",
+    "weight": 1.19,
+    "price": 3699,
+    "description": " Jest to smukły, 14-calowy laptop z ekranem OLED, zaprojektowany z myślą o wysokiej mobilności i pracy biurowej.",
+    "image_url": "images/laptops/Lenovo Yoga Slim 7-14.png",
+    "store_url": "https://www.x-kom.pl/p/1574164-laptop-14-lenovo-yoga-slim-7-14-ultra-5-226v-16gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS TUF Gaming A14",
+    "cpu_model": "AMD Ryzen 7 260",
+    "benchmark_score": 27900,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 13950,
+    "gpu_tgp": 105,
+    "battery_capacity": 73,
+    "battery_time": 9,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.46,
+    "price": 5859,
+    "description": "Model ten łączy niską wagę i solidną obudowę z podzespołami przeznaczonymi do gier oraz pracy mobilnej.",
+    "image_url": "images/laptops/ASUS TUF Gaming A14.png",
+    "store_url": "https://www.x-kom.pl/p/1481056-laptop-14-asus-tuf-gaming-a14-ryzen-7-260-16gb-512-win11-rtx5050-165hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6399,
+        "store_url": "https://www.x-kom.pl/p/1489419-laptop-14-asus-tuf-gaming-a14-ryzen-7-260-16gb-512512-win11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1512,
+        "price": 6799,
+        "store_url": "https://www.x-kom.pl/p/1489420-laptop-14-asus-tuf-gaming-a14-ryzen-7-260-16gb-5121tb-win11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 6999,
+        "store_url": "https://www.x-kom.pl/p/1489421-laptop-14-asus-tuf-gaming-a14-ryzen-7-260-16gb-2tb-win11-rtx5050-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "ASUS Vivobook 14",
+    "cpu_model": "Intel Core 5 120U",
+    "benchmark_score": 14900,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Iris Xe Graphics",
+    "gpu_benchmark": 2590,
+    "gpu_tgp": null,
+    "battery_capacity": 42,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.4,
+    "price": 2999,
+    "description": "kompaktowy laptop stworzony przede wszystkim dla studentów, uczniów oraz osób pracujących biurowo lub zdalnie, które potrzebują lekkiego i sprawnego sprzętu do codziennych zadań.",
+    "image_url": "images/laptops/demo_gaming_16.png",
+    "store_url": "https://www.x-kom.pl/p/1480728-laptop-14-asus-vivobook-14-core-5-120u-16gb-512-win11.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 3299,
+        "store_url": "https://www.x-kom.pl/p/1480731-laptop-14-asus-vivobook-14-core-5-120u-16gb-1tb-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 3949,
+        "store_url": "https://www.x-kom.pl/p/1480729-laptop-14-asus-vivobook-14-core-5-120u-24gb-512-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 4249,
+        "store_url": "https://www.x-kom.pl/p/1480732-laptop-14-asus-vivobook-14-core-5-120u-24gb-1tb-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 4549,
+        "store_url": "https://www.x-kom.pl/p/1480734-laptop-14-asus-vivobook-14-core-5-120u-24gb-2tb-win11.html"
+      },
+      {
+        "ram": 40,
+        "storage": 512,
+        "price": 4149,
+        "store_url": "https://www.x-kom.pl/p/1480730-laptop-14-asus-vivobook-14-core-5-120u-40gb-512-win11.html"
+      },
+      {
+        "ram": 40,
+        "storage": 1000,
+        "price": 4499,
+        "store_url": "https://www.x-kom.pl/p/1480733-laptop-14-asus-vivobook-14-core-5-120u-40gb-1tb-win11.html"
+      },
+      {
+        "ram": 40,
+        "storage": 2000,
+        "price": 4749,
+        "store_url": "https://www.x-kom.pl/p/1480735-laptop-14-asus-vivobook-14-core-5-120u-40gb-2tb-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook 7 AI",
+    "cpu_model": "Intel® Core™ Ultra 5 225U",
+    "benchmark_score": 17680,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon integrated (demo)",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 68,
+    "battery_time": 16,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.41,
+    "price": 3999,
+    "description": "Urządzenie jest przeznaczone do codziennej pracy mobilnej, zadań biurowych i multimediów z obsługą funkcji AI.",
+    "image_url": "images/laptops/HP OmniBook 7 AI.png",
+    "store_url": "https://www.x-kom.pl/p/1348500-laptop-14-hp-omnibook-7-ai-ultra-5-225u-16gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Swift Go 14",
+    "cpu_model": "AMD Ryzen AI 5 340",
+    "benchmark_score": 19650,
+    "ram": 32,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3620,
+    "gpu_tgp": null,
+    "battery_capacity": 75,
+    "battery_time": 16,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.29,
+    "price": 4499,
+    "description": "Jest to sprzęt dla osób szukających lekkiego, nowoczesnego laptopa z bardzo dobrym ekranem i dużym zapasem pamięci operacyjnej.",
+    "image_url": "images/laptops/demo_gaming_16.png",
+    "store_url": "https://www.x-kom.pl/p/1337048-laptop-14-acer-swift-go-14-ai-5-340-32gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "HP OmniBook X Flip 14",
+    "cpu_model": "AMD Ryzen AI 5 430",
+    "benchmark_score": 13500,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3620,
+    "gpu_tgp": null,
+    "battery_capacity": 59,
+    "battery_time": 8,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.4,
+    "price": 5499,
+    "description": "Jest to urządzenie typu 2 w 1, zaprojektowane do pracy mobilnej oraz obsługi lokalnych funkcji sztucznej inteligencji.",
+    "image_url": "images/laptops/HP OmniBook X Flip 14.png",
+    "store_url": "https://www.x-kom.pl/p/1574139-laptop-14-hp-omnibook-x-flip-14-ryzen-ai-5-430-16gb-1tb-win11-oled-touch.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Aspire 14",
+    "cpu_model": "Intel Core Ultra 9 386H",
+    "benchmark_score": 36170,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 6400,
+    "gpu_tgp": null,
+    "battery_capacity": 65,
+    "battery_time": 15,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 18,
+    "system": "Windows",
+    "weight": 1.25,
+    "price": 5449,
+    "description": "bardzo wydajny sprzęt do pracy biurowej, mobilnej oraz zadań opartych na sztucznej inteligencji..",
+    "image_url": "images/laptops/Acer Aspire 14.png",
+    "store_url": "https://www.x-kom.pl/p/1549486-laptop-14-acer-aspire-14-ultra-9-386h-16gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dream Machines 14PL21",
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "benchmark_score": 25000,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 860M",
+    "gpu_benchmark": 4875,
+    "gpu_tgp": null,
+    "battery_capacity": 80,
+    "battery_time": 11,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.56,
+    "price": 5749,
+    "description": "Urządzenie jest zaprojektowane jako lekki i smukły sprzęt uniwersalny oraz biurowy, wyposażony w nowoczesny procesor z obsługą AI oraz dużą ilość pamięci operacyjnej.",
+    "image_url": "images/laptops/Dream Machines 14PL21.png",
+    "store_url": "https://www.x-kom.pl/p/1575772-laptop-14-dream-machines-14pl21-ryzen-ai-7-350-32gb-1tb-win11x-144hz.html",
+    "variants": []
+  },
+  {
+    "name": "Acer TravelMate X4 14",
+    "cpu_model": "Intel Core Ultra 5 228V",
+    "benchmark_score": 18160,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Arc Graphics 130V",
+    "gpu_benchmark": 4500,
+    "gpu_tgp": null,
+    "battery_capacity": 53,
+    "battery_time": 15,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.56,
+    "price": 6199,
+    "description": "Jest to lekki ultrabook zaprojektowany do pracy mobilnej, wyposażony w funkcje sztucznej inteligencji (Copilot+ PC) oraz matrycę OLED.",
+    "image_url": "images/laptops/Dream Machines 14PL21.png",
+    "store_url": "https://www.x-kom.pl/p/1533170-laptop-14-acer-travelmate-x4-14-ultra-5-228v-32gb-1tb-win11p-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dell 14",
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "benchmark_score": 25000,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 860M",
+    "gpu_benchmark": 4875,
+    "gpu_tgp": null,
+    "battery_capacity": 54,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.65,
+    "price": 6679,
+    "description": "Model zaprojektowano do mobilnej pracy biurowej, obsługi rozbudowanych arkuszy kalkulacyjnych, systemów księgowych oraz wideokonferencji.",
+    "image_url": "images/laptops/Dream Machines 14PL21.png",
+    "store_url": "https://www.x-kom.pl/p/1532120-laptop-14-dell-14-ryzen-7-350-ai-16gb-1tb-win11p.html",
+    "variants": [
+    {
+        "ram": 32,
+        "storage": 1000,
+        "price": 7599,
+        "store_url": "https://www.x-kom.pl/p/1532124-laptop-14-dell-14-ryzen-7-350-ai-32gb-1tb-win11p.html"
+      }
+    ]
+  },
+  {
+    "name": "HP Omnibook X 14",
+    "cpu_model": "Intel Core Ultra 7 356H",
+    "benchmark_score": 34100,
+    "ram": 24,
+    "storage": 512,
+    "gpu_model": "Intel Xe3",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 70,
+    "battery_time": 20,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.3,
+    "price": 6999,
+    "description": "to lekki ultrabook klasy premium stworzony przede wszystkim dla profesjonalistów, twórców treści oraz osób pracujących mobilnie, które potrzebują wysokiej wydajności, doskonałego ekranu i długiej pracy na baterii.",
+    "image_url": "images/laptops/HP Omnibook X 14.png",
+    "store_url": "https://www.x-kom.pl/p/1519939-laptop-14-hp-omnibook-x-14-ultra-7-356h-24gb-512-win11-touch-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Nitro V 14 AI",
+    "cpu_model": "AMD Ryzen™ AI 7 350",
+    "benchmark_score": 25000,
+    "ram": 32,
+    "storage": 2000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 16780,
+    "gpu_tgp": 60,
+    "battery_capacity": 76,
+    "battery_time": 11,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 14.5,
+    "system": "Windows",
+    "weight": 1.73,
+    "price": 7899,
+    "description": "Laptop został zaprojektowany dla użytkowników szukających uniwersalnej, lekkiej maszyny do pracy kreatywnej, biznesowej oraz płynnego grania w podróży",
+    "image_url": "images/laptops/Acer Nitro V 14 AI.png",
+    "store_url": "https://www.x-kom.pl/p/1455483-laptop-14-acer-nitro-v-14-ai-ryzen-ai-7-350-32gb-2tb-win11p-rtx5060.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo Yoga Slim 7-14",
+    "cpu_model": "Intel Core Ultra X7 358H",
+    "benchmark_score": 33560,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel® Arc™ B390",
+    "gpu_benchmark": 9015,
+    "gpu_tgp": null,
+    "battery_capacity": 75,
+    "battery_time": 10,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 0.97,
+    "price": 8299,
+    "description": "Jest to sprzęt zaprojektowany głównie dla mobilnych twórców treści, programistów oraz wymagających specjalistów",
+    "image_url": "images/laptops/Lenovo Yoga Slim 7-14 Ultra X7.png",
+    "store_url": "https://www.x-kom.pl/p/1615354-laptop-14-lenovo-yoga-slim-7-14-ultra-x7-358h-32gb-1tb-win11-oled-touch.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS Zenbook S 14",
+    "cpu_model": "Intel Core Ultra 9 386H",
+    "benchmark_score": 36170,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Xe3",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 77,
+    "battery_time": 22,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 14.0,
+    "system": "Windows",
+    "weight": 1.2,
+    "price": 9549,
+    "description": "Sprawdzi się przede wszystkim u osób mobilnych, twórców treści oraz użytkowników biurowych i biznesowych, którzy cenią długą pracę na baterii.",
+    "image_url": "images/laptops/ASUS Zenbook S 14.png",
+    "store_url": "https://www.x-kom.pl/p/1481012-laptop-14-asus-zenbook-s-14-ultra-9-386h-32gb-1tb-win11-oled-touch.html",
+    "variants": [
+    {
+        "ram": 32,
+        "storage": 2000,
+        "price": 10399,
+        "store_url": "https://www.x-kom.pl/p/1481013-laptop-14-asus-zenbook-s-14-ultra-9-386h-32gb-2tb-win11-oled-touch.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Aspire Lite 15",
+    "cpu_model": "AMD Ryzen 3 5400U",
+    "benchmark_score": 10690,
+    "ram": 8,
+    "storage": 512,
+    "gpu_model": "AMD Radeon RX Vega 6",
+    "gpu_benchmark": 1490,
+    "gpu_tgp": null,
+    "battery_capacity": 45,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.8,
+    "price": 2149,
+    "description": "To podstawowy, budżetowy model 15,6-calowy przeznaczony do prostych prac biurowych, nauki zdalnej oraz codziennego użytku domowego",
+    "image_url": "images/laptops/Acer Aspire Lite 15.png",
+    "store_url": "https://www.x-kom.pl/p/1591524-laptop-15-16-acer-aspire-lite-15-ryzen-3-5400u-8gb-512-win11.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 512,
+        "price": 2349,
+        "store_url": "https://www.x-kom.pl/p/1591525-laptop-15-16-acer-aspire-lite-15-ryzen-3-5400u-16gb-512-win11.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 2849,
+        "store_url": "https://www.x-kom.pl/p/1591526-laptop-15-16-acer-aspire-lite-15-ryzen-3-5400u-16gb-1tb-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Aspire Lite 15",
+    "cpu_model": "AMD Ryzen 5 7430U",
+    "benchmark_score": 15015,
+    "ram": 8,
+    "storage": 512,
+    "gpu_model": "AMD Radeon RX Vega 7",
+    "gpu_benchmark": 2200,
+    "gpu_tgp": null,
+    "battery_capacity": 58,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.49,
+    "price": 2499,
+    "description": "Sprawdzi się przede wszystkim u osób szukających niedrogiego, mobilnego komputera do codziennych zadań.",
+    "image_url": "images/laptops/Acer Aspire Lite 15.png",
+    "store_url": "https://www.x-kom.pl/p/1546944-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-8gb-512-win11.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 512,
+        "price": 2599,
+        "store_url": "https://www.x-kom.pl/p/1546945-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-16gb-512-win11.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 3299,
+        "store_url": "https://www.x-kom.pl/p/1546947-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-16gb-1tb-win11.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 3699,
+        "store_url": "https://www.x-kom.pl/p/1546950-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-16gb-2tb-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 3299,
+        "store_url": "https://www.x-kom.pl/p/1546946-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-32gb-512-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 3999,
+        "store_url": "https://www.x-kom.pl/p/1546949-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-32gb-1tb-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 4399,
+        "store_url": "https://www.x-kom.pl/p/1546951-laptop-15-16-acer-aspire-lite-15-ryzen-5-7430u-32gb-2tb-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Aspire Go 15",
+    "cpu_model": "AMD Ryzen 7 7730U",
+    "benchmark_score": 16800,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon RX Vega 8",
+    "gpu_benchmark": 2430,
+    "gpu_tgp": null,
+    "battery_capacity": 53,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.78,
+    "price": 2899,
+    "description": "To wydajny sprzęt z segmentu konsumenckiego, przeznaczony przede wszystkim do codziennej pracy biurowej, nauki oraz zadań domowych.",
+    "image_url": "images/laptops/Acer Aspire Go 15.png",
+    "store_url": "https://www.x-kom.pl/p/1572560-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-16gb-512-win11.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1000,
+        "price": 3399,
+        "store_url": "https://www.x-kom.pl/p/1572562-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-16gb-1tb-win11.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 4099,
+        "store_url": "https://www.x-kom.pl/p/1572594-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-16gb-2tb-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 3099,
+        "store_url": "https://www.x-kom.pl/p/1572596-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-24gb-512-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 3599,
+        "store_url": "https://www.x-kom.pl/p/1572597-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-24gb-1tb-win11.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 4299,
+        "store_url": "https://www.x-kom.pl/p/1572598-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-24gb-2tb-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 3599,
+        "store_url": "https://www.x-kom.pl/p/1572561-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-32gb-512-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 4099,
+        "store_url": "https://www.x-kom.pl/p/1572563-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-32gb-1tb-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 4799,
+        "store_url": "https://www.x-kom.pl/p/1572595-laptop-15-16-acer-aspire-go-15-ryzen-7-7730u-32gb-2tb-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "HP 250 G9",
+    "cpu_model": "Intel Core 5 120U",
+    "benchmark_score": 14845,
+    "ram": 8,
+    "storage": 512,
+    "gpu_model": "Intel Iris Xe Graphics G7",
+    "gpu_benchmark": 2590,
+    "gpu_tgp": null,
+    "battery_capacity": 41,
+    "battery_time": 7,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.74,
+    "price": 2799,
+    "description": "Jest to budżetowy, uniwersalny komputer przeznaczony przede wszystkim do codziennej pracy biurowej, nauki i zastosowań domowych.",
+    "image_url": "images/laptops/HP 250 G9.png",
+    "store_url": "https://www.x-kom.pl/p/1570371-laptop-15-16-hp-250-g9-core-5-120u-8gb-512-win11p.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 512,
+        "price": 3299,
+        "store_url": "https://www.x-kom.pl/p/1570372-laptop-15-16-hp-250-g9-core-5-120u-16gb-512-win11p.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 3999,
+        "store_url": "https://www.x-kom.pl/p/1570374-laptop-15-16-hp-250-g9-core-5-120u-16gb-1tb-win11p.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 3599,
+        "store_url": "https://www.x-kom.pl/p/1570373-laptop-15-16-hp-250-g9-core-5-120u-24gb-512-win11p.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 4299,
+        "store_url": "https://www.x-kom.pl/p/1570375-laptop-15-16-hp-250-g9-core-5-120u-24gb-1tb-win11p.html"
+      }
+    ]
+  },
+  {
+    "name": "ASUS Vivobook 16",
+    "cpu_model": "Intel Core Ultra 5 325",
+    "benchmark_score": 18920,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics 4 Xe3",
+    "gpu_benchmark": 4500,
+    "gpu_tgp": null,
+    "battery_capacity": 42,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 1.88,
+    "price": 2949,
+    "description": "To uniwersalny laptop do codziennej pracy biurowej, nauki, przeglądania internetu i multimediów, stworzony głównie dla uczniów, studentów, osób pracujących zdalnie lub hybrydowo oraz użytkowników domowych.",
+    "image_url": "images/laptops/ASUS Vivobook 16.png",
+    "store_url": "https://www.x-kom.pl/p/1522917-laptop-15-16-asus-vivobook-16-ultra-5-325-16gb-512-win11-szary.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3-15",
+    "cpu_model": "Intel Core 5 320",
+    "benchmark_score": 15420,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics 2 Xe3",
+    "gpu_benchmark": 2700,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 19,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 1.63,
+    "price": 2999,
+    "description": "Jest to uniwersalny komputer przeznaczony do codziennych zadań biurowych, nauki oraz multimediów.",
+    "image_url": "images/laptops/Lenovo IdeaPad Slim 3-15.png",
+    "store_url": "https://www.x-kom.pl/p/1550978-laptop-15-16-lenovo-ideapad-slim-3-15-core-5-320-16gb-512-win11.html",
+    "variants": [
+    {
+        "ram": 24,
+        "storage": 512,
+        "price": 3399,
+        "store_url": "https://www.x-kom.pl/p/1550979-laptop-15-16-lenovo-ideapad-slim-3-15-core-5-320-24gb-512-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 3699,
+        "store_url": "https://www.x-kom.pl/p/1550980-laptop-15-16-lenovo-ideapad-slim-3-15-core-5-320-32gb-512-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3-15",
+    "cpu_model": "Intel Core 5 322",
+    "benchmark_score": 15135,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics 2 Xe3",
+    "gpu_benchmark": 2900,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 20,
+    "display_type": "OLED",
+    "display_resolution": 1600,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 1.49,
+    "price": 3299,
+    "description": "Jest to uniwersalny komputer przeznaczony do codziennych zadań biurowych, nauki oraz multimediów z świetnym ekranem OLED w tej cenie.",
+    "image_url": "images/laptops/Lenovo IdeaPad Slim 3-15.png",
+    "store_url": "https://www.x-kom.pl/p/1593974-laptop-15-16-lenovo-ideapad-slim-3-15-ultra-5-322-16gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Gigabyte EAGLE",
+    "cpu_model": "AMD Ryzen 5 7533HS",
+    "benchmark_score": 15250,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 3050",
+    "gpu_benchmark": 10125,
+    "gpu_tgp": 70,
+    "battery_capacity": 61,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 2.2,
+    "price": 3499,
+    "description": "Sprawdzi się przede wszystkim dla graczy szukających sprzętu w budżetowej klasie średniej, studentów oraz osób potrzebujących uniwersalnego komputera do pracy biurowej i podstawowej obróbki multimediów",
+    "image_url": "images/laptops/Gigabyte EAGLE.png",
+    "store_url": "https://www.x-kom.pl/p/1545724-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-16gb-512-win11-rtx3050-165hz.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1000,
+        "price": 4199,
+        "store_url": "https://www.x-kom.pl/p/1545727-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-16gb-1tb-win11-rtx3050-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 4099,
+        "store_url": "https://www.x-kom.pl/p/1545725-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-24gb-512-win11-rtx3050-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 4799,
+        "store_url": "https://www.x-kom.pl/p/1545728-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-24gb-1tb-win11-rtx3050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 4499,
+        "store_url": "https://www.x-kom.pl/p/1545726-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-32gb-512-win11-rtx3050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 5199,
+        "store_url": "https://www.x-kom.pl/p/1545729-laptop-15-16-gigabyte-eagle-ryzen-5-7533hs-32gb-1tb-win11-rtx3050-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook 3-16",
+    "cpu_model": "AMD Ryzen 5 230",
+    "benchmark_score": 19500,
+    "ram": 24,
+    "storage": 512,
+    "gpu_model": "AMD Radeon™ 760M",
+    "gpu_benchmark": 5290,
+    "gpu_tgp": null,
+    "battery_capacity": 68,
+    "battery_time": 13,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 2.39,
+    "price": 3499,
+    "description": "To uniwersalny model 16-calowy do pracy biurowej, nauki, pracy zdalnej/hybrydowej oraz codziennego użytku domowego.",
+    "image_url": "images/laptops/HP OmniBook 3-16.png",
+    "store_url": "https://www.x-kom.pl/p/1574124-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-24gb-512-win11.html",
+    "variants": [
+    {
+        "ram": 24,
+        "storage": 1000,
+        "price": 4199,
+        "store_url": "https://www.x-kom.pl/p/1574128-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-24gb-1tb-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 4099,
+        "store_url": "https://www.x-kom.pl/p/1574125-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-32gb-512-win11.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 4799,
+        "store_url": "https://www.x-kom.pl/p/1574129-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-32gb-1tb-win11.html"
+      },
+      {
+        "ram": 40,
+        "storage": 512,
+        "price": 4499,
+        "store_url": "https://www.x-kom.pl/p/1574126-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-40gb-512-win11.html"
+      },
+      {
+        "ram": 40,
+        "storage": 1000,
+        "price": 5199,
+        "store_url": "https://www.x-kom.pl/p/1574130-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-40gb-1tb-win11.html"
+      },
+      {
+        "ram": 48,
+        "storage": 512,
+        "price": 4399,
+        "store_url": "https://www.x-kom.pl/p/1574127-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-48gb-512-win11.html"
+      },
+      {
+        "ram": 48,
+        "storage": 1000,
+        "price": 5099,
+        "store_url": "https://www.x-kom.pl/p/1574131-laptop-15-16-hp-omnibook-3-16-ryzen-5-230-48gb-1tb-win11.html"
+      }
+    ]
+  },
+  {
+    "name": "ASUS Vivobook 16",
+    "cpu_model": "Intel Core 9 270H",
+    "benchmark_score": 27280,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Iris Xe Graphics",
+    "gpu_benchmark": 3100,
+    "gpu_tgp": null,
+    "battery_capacity": 42,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 1.88,
+    "price": 5119,
+    "description": "To 16-calowy laptop uniwersalny stworzony przede wszystkim do pracy biurowej, nauki, analityki oraz codziennego użytku domowego dla osób szukających dużej przestrzeni roboczej i mocnego procesora.",
+    "image_url": "images/laptops/ASUS Vivobook 16 Core 9.png",
+    "store_url": "https://www.x-kom.pl/p/1522915-laptop-15-16-asus-vivobook-16-core-9-270h-16gb-512-win11-czarny.html",
+    "variants": []
+  },
+  {
+    "name": "HP VICTUS 15",
+    "cpu_model": "Intel Core i5-13450HX",
+    "benchmark_score": 24325,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 3050",
+    "gpu_benchmark": 10125,
+    "gpu_tgp": 80,
+    "battery_capacity": 70,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.29,
+    "price": 4299,
+    "description": "To laptop gamingowy klasy podstawowej i średniej, przeznaczony przede wszystkim do grania w rozdzielczości Full HD, nauki, pracy biurowej oraz podstawowej obróbki graficznej czy wideo",
+    "image_url": "images/laptops/HP VICTUS 15.png",
+    "store_url": "https://www.x-kom.pl/p/1520335-laptop-15-16-hp-victus-15-core-i5-13450hx-16gb-512-win11x-rtx3050-144hz.html",
+    "variants": [
+    {
+        "ram": 24,
+        "storage": 512,
+        "price": 4699,
+        "store_url": "https://www.x-kom.pl/p/1520336-laptop-15-16-hp-victus-15-core-i5-13450hx-24gb-512-win11x-rtx3050-144hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5599,
+        "store_url": "https://www.x-kom.pl/p/1520337-laptop-15-16-hp-victus-15-core-i5-13450hx-32gb-512-win11x-rtx3050-144hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 5399,
+        "store_url": "https://www.x-kom.pl/p/1520344-laptop-15-16-hp-victus-15-core-i5-13450hx-16gb-2tb-win11x-rtx3050-144hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 5799,
+        "store_url": "https://www.x-kom.pl/p/1520345-laptop-15-16-hp-victus-15-core-i5-13450hx-24gb-2tb-win11x-rtx3050-144hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 6699,
+        "store_url": "https://www.x-kom.pl/p/1520346-laptop-15-16-hp-victus-15-core-i5-13450hx-32gb-2tb-win11x-rtx3050-144hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo LOQ 15",
+    "cpu_model": "AMD Ryzen™ 7 7445HS",
+    "benchmark_score": 18440,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 3050",
+    "gpu_benchmark": 11720,
+    "gpu_tgp": 95,
+    "battery_capacity": 60,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.38,
+    "price": 3949,
+    "description": "Przeznaczony przede wszystkim dla początkujących graczy, studentów kierunków technicznych oraz osób szukających uniwersalnego sprzętu do nauki, pracy i rozrywki.",
+    "image_url": "images/laptops/Lenovo LOQ 15.png",
+    "store_url": "https://www.x-kom.pl/p/1574279-laptop-15-16-lenovo-loq-15-ryzen-7-7445hs-16gb-512-win11x-rtx3050-144hz.html",
+    "variants": [
+    {
+        "ram": 32,
+        "storage": 2000,
+        "price": 6049,
+        "store_url": "https://www.x-kom.pl/p/1574286-laptop-15-16-lenovo-loq-15-ryzen-7-7445hs-32gb-2tb-win11x-rtx3050-144hz.html"
+      }
+    ]
+  },
+  {
+    "name": "MSI Modern 16S AI+",
+    "cpu_model": "Intel® Core™ Ultra 7 355",
+    "benchmark_score": 20195,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 4800,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 16,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.75,
+    "price": 3999,
+    "description": "Zaprojektowany głównie dla studentów, pracowników biurowych oraz osób pracujących zdalnie lub hybrydowo.",
+    "image_url": "images/laptops/MSI Modern 16S AI+.png",
+    "store_url": "https://www.x-kom.pl/p/1541339-laptop-15-16-msi-modern-16s-ai-ultra-7-355-16gb-512-win11-120hz.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1000,
+        "price": 4699,
+        "store_url": "https://www.x-kom.pl/p/1541356-laptop-15-16-msi-modern-16s-ai-ultra-7-355-16gb-1tb-win11-120hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 4999,
+        "store_url": "https://www.x-kom.pl/p/1541354-laptop-15-16-msi-modern-16s-ai-ultra-7-355-24gb-512-win11-120hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 5699,
+        "store_url": "https://www.x-kom.pl/p/1541357-laptop-15-16-msi-modern-16s-ai-ultra-7-355-24gb-1tb-win11-120hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5499,
+        "store_url": "https://www.x-kom.pl/p/1541355-laptop-15-16-msi-modern-16s-ai-ultra-7-355-32gb-512-win11-120hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 6199,
+        "store_url": "https://www.x-kom.pl/p/1541358-laptop-15-16-msi-modern-16s-ai-ultra-7-355-32gb-1tb-win11-120hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Aspire 16",
+    "cpu_model": "AMD Ryzen AI 5 430",
+    "benchmark_score": 13960,
+    "ram": 32,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3630,
+    "gpu_tgp": null,
+    "battery_capacity": 65,
+    "battery_time": 14,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 1.55,
+    "price": 4599,
+    "description": "To uniwersalny, nowoczesny laptop multimedialno-biurowy. Jest przeznaczony przede wszystkim dla użytkowników szukających wydajnego sprzętu do wielozadaniowej pracy biurowej, nauki, rozrywki oraz podstawowej obróbki multimediów.",
+    "image_url": "images/laptops/Acer Aspire 16.png",
+    "store_url": "https://www.x-kom.pl/p/1604610-laptop-15-16-acer-aspire-16-ryzen-ai-5-430-32gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dell 15",
+    "cpu_model": "Intel Core i7-1355U",
+    "benchmark_score": 13800,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "Intel Iris Xe Graphics G7",
+    "gpu_benchmark": 2590,
+    "gpu_tgp": null,
+    "battery_capacity": 54,
+    "battery_time": 7,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 1.9,
+    "price": 4649,
+    "description": "Jest to komputer stworzony przede wszystkim do zaawansowanej pracy biurowej, administracyjnej oraz domowego multitaskingu.",
+    "image_url": "images/laptops/Dell 15.png",
+    "store_url": "https://www.x-kom.pl/p/1624730-laptop-15-16-dell-15-i7-1355u-16gb-1tb-win11p.html",
+    "variants": [
+    {
+      "ram": 32,
+      "storage": 1000,
+      "price": 5499,
+      "store_url": "https://www.x-kom.pl/p/1624731-laptop-15-16-dell-15-i7-1355u-32gb-1tb-win11p.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Nitro V 15",
+    "cpu_model": "Ryzen 7-7445HS",
+    "benchmark_score": 18440,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 4050",
+    "gpu_benchmark": 13800,
+    "gpu_tgp": 70,
+    "battery_capacity": 57,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.1,
+    "price": 4349,
+    "description": "To laptop gamingowo-uniwersalny ze średniej półki, przeznaczony głównie dla graczy szukających płynnej rozgrywki w rozdzielczości Full HD oraz dla uczniów i studentów potrzebujących wydajnego sprzętu do nauki, pracy i lekkiej obróbki multimediów.",
+    "image_url": "images/laptops/Acer Nitro V 15.png",
+    "store_url": "https://www.x-kom.pl/p/1517374-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-16gb-512-win11-rtx4050-165hz.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1000,
+        "price": 4649,
+        "store_url": "https://www.x-kom.pl/p/1517377-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-16gb-1tb-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 4849,
+        "store_url": "https://www.x-kom.pl/p/1517375-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-24gb-512-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 5149,
+        "store_url": "https://www.x-kom.pl/p/1517378-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-24gb-1tb-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 5449,
+        "store_url": "https://www.x-kom.pl/p/1517380-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-24gb-2tb-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5349,
+        "store_url": "https://www.x-kom.pl/p/1517376-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-32gb-512-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 5649,
+        "store_url": "https://www.x-kom.pl/p/1517379-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-32gb-1tb-win11-rtx4050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 5949,
+        "store_url": "https://www.x-kom.pl/p/1517381-laptop-15-16-acer-nitro-v-15-ryzen-7-7445hs-32gb-2tb-win11-rtx4050-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo LOQ Essential",
+    "cpu_model": "AMD Ryzen 5 150",
+    "benchmark_score": 15375,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 12500,
+    "gpu_tgp": 60,
+    "battery_capacity": 60,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.3,
+    "price": 4599,
+    "description": "To sprzęt stworzony głównie dla graczy z ograniczonym budżetem, studentów oraz osób szukających uniwersalnego komputera do nauki i rozrywki",
+    "image_url": "images/laptops/Lenovo LOQ Essential.png",
+    "store_url": "https://www.x-kom.pl/p/1600809-laptop-15-16-lenovo-loq-essential-15-ryzen-5-16gb-512-win11-rtx5050-144hz.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1024,
+        "price": 4799,
+        "store_url": "https://www.x-kom.pl/p/1600810-laptop-15-16-lenovo-loq-essential-15-ryzen-5-16gb-512512-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1512,
+        "price": 4849,
+        "store_url": "https://www.x-kom.pl/p/1600813-laptop-15-16-lenovo-loq-essential-15-ryzen-5-24gb-5121tb-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 4889,
+        "store_url": "https://www.x-kom.pl/p/1600811-laptop-15-16-lenovo-loq-essential-15-ryzen-5-24gb-512-win11-rtx5050-144hz.html?pageThemeMode=dark&"
+      },
+      {
+        "ram": 24,
+        "storage": 1024,
+        "price": 5099,
+        "store_url": "https://www.x-kom.pl/p/1600812-laptop-15-16-lenovo-loq-essential-15-ryzen-5-24gb-512512-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1512,
+        "price": 5699,
+        "store_url": "https://www.x-kom.pl/p/1600813-laptop-15-16-lenovo-loq-essential-15-ryzen-5-24gb-5121tb-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 5499,
+        "store_url": "https://www.x-kom.pl/p/1600814-laptop-15-16-lenovo-loq-essential-15-ryzen-5-32gb-512-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 5699,
+        "store_url": "https://www.x-kom.pl/p/1600815-laptop-15-16-lenovo-loq-essential-15-ryzen-5-32gb-512512-win11-rtx5050-144hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1512,
+        "price": 6299,
+        "store_url": "https://www.x-kom.pl/p/1600816-laptop-15-16-lenovo-loq-essential-15-ryzen-5-32gb-5121tb-win11-rtx5050-144hz.html"
+      }
+    ]
+  },
+  {
+    "name": "ASUS Vivobook S16 Flip",
+    "cpu_model": "Qualcomm Snapdragon X1",
+    "benchmark_score": 16280,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Qualcomm® Adreno™",
+    "gpu_benchmark": 1905,
+    "gpu_tgp": null,
+    "battery_capacity": 50,
+    "battery_time": 30,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 1.68,
+    "price": 4999,
+    "description": "To konwertowalny laptop 2w1 (z zawiasem 360°) stworzony dla użytkowników domowych, uczniów, studentów oraz osób pracujących mobilnie, którzy szukają dużego ekranu dotykowego, funkcji AI (Copilot+ PC) i długiego czasu pracy na baterii.",
+    "image_url": "images/laptops/ASUS Vivobook S16 Flip.png",
+    "store_url": "https://www.x-kom.pl/p/1610560-laptop-15-16-asus-vivobook-s16-flip-snapdragon-x-x1-26-100-16gb-512gb-win11-ol.html",
+    "variants": []
+  },
+  {
+    "name": "HyperX OMEN 15",
+    "cpu_model": "Intel Core i5-14500HX",
+    "benchmark_score": 28545,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 15500,
+    "gpu_tgp": 115,
+    "battery_capacity": 70,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 2.21,
+    "price": 4999,
+    "description": "Przeznaczony dla graczy średniej półki, twórców treści oraz osób szukających wydajnego komputera do pracy i nauki.",
+    "image_url": "images/laptops/HyperX OMEN 15.png",
+    "store_url": "https://www.x-kom.pl/p/1519954-laptop-15-16-hyperx-omen-15-core-i5-14500hx-16gb-512-win11-rtx5050-180hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 5199,
+        "store_url": "https://www.x-kom.pl/p/1519957-laptop-15-16-hyperx-omen-15-core-i5-14500hx-16gb-512512-win11-rtx5050-180hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Gigabyte AERO X16",
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "benchmark_score": 25000,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 14500,
+    "gpu_tgp": 85,
+    "battery_capacity": 76,
+    "battery_time": 9,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 1.9,
+    "price": 4999,
+    "description": "Jest to lekki i uniwersalny laptop zaprojektowany z myślą o twórcach treści, studentach kierunków technicznych oraz graczach, którzy potrzebują wydajnego sprzętu bez topornej, typowo gamingowej obudowy.",
+    "image_url": "images/laptops/Gigabyte AERO X16.png",
+    "store_url": "https://www.x-kom.pl/p/1368611-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-16gb-1tb-w11-rtx5050-165hz-szary.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 2048,
+        "price": 5749,
+        "store_url": "https://www.x-kom.pl/p/1351230-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-16gb-1tb1tb-w11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 5699,
+        "store_url": "https://www.x-kom.pl/p/1351229-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-32gb-1tb-w11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2048,
+        "price": 6449,
+        "store_url": "https://www.x-kom.pl/p/1351231-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-32gb-1tb1tb-w11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1000,
+        "price": 6749,
+        "store_url": "https://www.x-kom.pl/p/1418079-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-64gb-1tb-w11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2048,
+        "price": 7349,
+        "store_url": "https://www.x-kom.pl/p/1418080-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-64gb-1tb1tb-w11-rtx5050-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Gigabyte GAMING A16",
+    "cpu_model": "AMD Ryzen™ 7 260",
+    "benchmark_score": 28200,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 16500,
+    "gpu_tgp": 80,
+    "battery_capacity": 76,
+    "battery_time": 4,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16.0,
+    "system": "Windows",
+    "weight": 2.2,
+    "price": 5499,
+    "description": "Jest to laptop zaprojektowany z myślą o graczach, studentach kierunków technicznych oraz osobach pracujących z grafiką i wideo.",
+    "image_url": "images/laptops/Gigabyte GAMING A16.png",
+    "store_url": "https://www.x-kom.pl/p/1351906-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-16gb-512-win11x-rtx5060-165hz.html",
+    "variants": [
+    {
+        "ram": 16,
+        "storage": 1000,
+        "price": 6199,
+        "store_url": "https://www.x-kom.pl/p/1351912-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-16gb-1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2048,
+        "price": 6899,
+        "store_url": "https://www.x-kom.pl/p/1351914-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-16gb-1tb1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 5699,
+        "store_url": "https://www.x-kom.pl/p/1476164-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-24gb-512-win11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 6399,
+        "store_url": "https://www.x-kom.pl/p/1476167-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-24gb-1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 6399,
+        "store_url": "https://www.x-kom.pl/p/1351907-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-32gb-512-win11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 6899,
+        "store_url": "https://www.x-kom.pl/p/1351913-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-32gb-1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2048,
+        "price": 7599,
+        "store_url": "https://www.x-kom.pl/p/1351915-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-32gb-1tb1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 512,
+        "price": 8199,
+        "store_url": "https://www.x-kom.pl/p/1371657-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-64gb-512-win11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1000,
+        "price": 9399,
+        "store_url": "https://www.x-kom.pl/p/1371660-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-64gb-1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2048,
+        "price": 10099,
+        "store_url": "https://www.x-kom.pl/p/1371661-laptop-15-16-gigabyte-gaming-a16-ryzen-7-260-64gb-1tb1tb-w11x-rtx5060-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HP ProBook 4 G1i",
+    "cpu_model": "Intel Core Ultra 7 255U",
+    "benchmark_score": 18000,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 56,
+    "battery_time": 11,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.74,
+    "price": 5849,
+    "description": "Biznesowy laptop do pracy biurowej, nauki i wielozadaniowości.",
+    "image_url": "images/laptops/HP ProBook 4 G1i.png",
+    "store_url": "https://www.x-kom.pl/p/1365887-laptop-15-16-hp-probook-4-g1i-ultra-7-255u-16gb-512-win11p.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 6699,
+        "store_url": "https://www.x-kom.pl/p/1365888-laptop-15-16-hp-probook-4-g1i-ultra-7-255u-32gb-512-win11p.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 6099,
+        "store_url": "https://www.x-kom.pl/p/1365889-laptop-15-16-hp-probook-4-g1i-ultra-7-255u-16gb-1tb-win11p.html"
+      }
+    ]
+  },
+  {
+    "name": "HyperX OMEN 15",
+    "cpu_model": "AMD Ryzen 7 8745HX",
+    "benchmark_score": 31400,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17800,
+    "gpu_tgp": 115,
+    "battery_capacity": 70,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 2.42,
+    "price": 5999,
+    "description": "Laptop gamingowy do wymagających gier i pracy kreatywnej.",
+    "image_url": "images/laptops/HyperX OMEN 15.png",
+    "store_url": "https://www.x-kom.pl/p/1520072-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-16gb-512-win11-rtx5060-180hz.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 6899,
+        "store_url": "https://www.x-kom.pl/p/1520074-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-32gb-512-win11-rtx5060-180hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6199,
+        "store_url": "https://www.x-kom.pl/p/1520075-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-16gb-512512-win11-rtx5060-180hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 7099,
+        "store_url": "https://www.x-kom.pl/p/1520077-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-32gb-512512-win11-rtx5060-180hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1024,
+        "price": 8099,
+        "store_url": "https://www.x-kom.pl/p/1520081-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-64gb-512512-win11-rtx5060-180hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2000,
+        "price": 8999,
+        "store_url": "https://www.x-kom.pl/p/1520095-laptop-15-16-hyperx-omen-15-ryzen-7-8745hx-64gb-2tb-win11-rtx5060-180hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Gigabyte AERO X16",
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "benchmark_score": 25000,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17000,
+    "gpu_tgp": 85,
+    "battery_capacity": 76,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.9,
+    "price": 5999,
+    "description": "Uniwersalny laptop do gier, projektowania i tworzenia treści.",
+    "image_url": "images/laptops/Gigabyte AERO X16.png",
+    "store_url": "https://www.x-kom.pl/p/1337569-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-16gb-1tb-w11-rtx5060-165hz-szary.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 6699,
+        "store_url": "https://www.x-kom.pl/p/1337570-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-32gb-1tb-w11-rtx5060-165hz-szary.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2048,
+        "price": 6699,
+        "store_url": "https://www.x-kom.pl/p/1337571-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-16gb-1tb1tb-w11-rtx5060-165hz-szary.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2048,
+        "price": 7399,
+        "store_url": "https://www.x-kom.pl/p/1337572-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-32gb-1tb1tb-w11-rtx5060-165hz-szary.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2048,
+        "price": 9399,
+        "store_url": "https://www.x-kom.pl/p/1418076-laptop-15-16-gigabyte-aero-x16-ryzen-ai-7-350-64gb-1tb1tb-w11-rtx5060-165hz-szary.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo Legion 5-15",
+    "cpu_model": "Intel Core i7-13645HX",
+    "benchmark_score": 29500,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17800,
+    "gpu_tgp": 115,
+    "battery_capacity": 60,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 2.1,
+    "price": 6099,
+    "description": "Wydajny laptop do gier, grafiki i pracy technicznej.",
+    "image_url": "images/laptops/Lenovo Legion 5-15.png",
+    "store_url": "https://www.x-kom.pl/p/1550981-laptop-15-16-lenovo-legion-5-15-i7-13645hx-16gb-512-win11-rtx5060.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6299,
+        "store_url": "https://www.x-kom.pl/p/1550984-laptop-15-16-lenovo-legion-5-15-i7-13645hx-16gb-512512-win11-rtx5060.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 7099,
+        "store_url": "https://www.x-kom.pl/p/1550983-laptop-15-16-lenovo-legion-5-15-i7-13645hx-32gb-512-win11-rtx5060.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 7299,
+        "store_url": "https://www.x-kom.pl/p/1550986-laptop-15-16-lenovo-legion-5-15-i7-13645hx-32gb-512512-win11-rtx5060.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 8199,
+        "store_url": "https://www.x-kom.pl/p/1550993-laptop-15-16-lenovo-legion-5-15-i7-13645hx-32gb-2tb-win11-rtx5060.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook X Flip 16",
+    "cpu_model": "AMD Ryzen AI 7 445",
+    "benchmark_score": 18300,
+    "ram": 24,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3630,
+    "gpu_tgp": null,
+    "battery_capacity": 76,
+    "battery_time": 21,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.8,
+    "price": 6499,
+    "description": "Konwertowalny laptop z dotykowym ekranem OLED do pracy i multimediów.",
+    "image_url": "images/laptops/HP OmniBook X Flip 16.png",
+    "store_url": "https://www.x-kom.pl/p/1519949-laptop-15-16-hp-omnibook-x-flip-16-ryzen-ai-7-445-24gb-512-win11-touch-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dream Machines 16PL26",
+    "cpu_model": "AMD Ryzen AI 9 HX 370",
+    "benchmark_score": 35100,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 890M",
+    "gpu_benchmark": 8060,
+    "gpu_tgp": null,
+    "battery_capacity": 80,
+    "battery_time": 5,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.91,
+    "price": 6599,
+    "description": "Laptop z mocnym procesorem i zintegrowaną grafiką do pracy i multimediów.",
+    "image_url": "images/laptops/Dream Machines 16PL26.png",
+    "store_url": "https://www.x-kom.pl/p/1575776-laptop-15-16-dream-machines-16pl26-ryzen-ai-9-hx-370-16gb-1tb-win11x-240hz.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Swift Go 16",
+    "cpu_model": "Intel Core Ultra 9 386H",
+    "benchmark_score": 36000,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 4800,
+    "gpu_tgp": null,
+    "battery_capacity": 71,
+    "battery_time": 24,
+    "display_type": "OLED",
+    "display_resolution": 1200,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.36,
+    "price": 6699,
+    "description": "Mobilny laptop z ekranem OLED do pracy i codziennych zastosowań.",
+    "image_url": "images/laptops/Acer Swift Go 16.png",
+    "store_url": "https://www.x-kom.pl/p/1604605-laptop-15-16-acer-swift-go-16-ultra-9-386h-32gb-1tb-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo Legion 5-15",
+    "cpu_model": "AMD Ryzen 7 250",
+    "benchmark_score": 25100,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17800,
+    "gpu_tgp": 115,
+    "battery_capacity": 80,
+    "battery_time": 12,
+    "display_type": "OLED",
+    "display_resolution": 1600,
+    "display_size": 15.3,
+    "system": "Windows",
+    "weight": 1.87,
+    "price": 6899,
+    "description": "Laptop gamingowy z ekranem OLED do gier i zadań kreatywnych.",
+    "image_url": "images/laptops/Lenovo Legion 5-15.png",
+    "store_url": "https://www.x-kom.pl/p/1521439-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-16gb-512-win11x-rtx5060-oled-165hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 7099,
+        "store_url": "https://www.x-kom.pl/p/1521442-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-16gb-512512-win11x-rtx5060-oled.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 7999,
+        "store_url": "https://www.x-kom.pl/p/1521448-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-16gb-2tb-win11x-rtx5060-oled-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 7899,
+        "store_url": "https://www.x-kom.pl/p/1521441-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-32gb-512-win11x-rtx5060-oled-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 8099,
+        "store_url": "https://www.x-kom.pl/p/1521444-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-32gb-512512-win11x-rtx5060-oled.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 8999,
+        "store_url": "https://www.x-kom.pl/p/1521450-laptop-15-16-lenovo-legion-5-15-ryzen-7-250-32gb-2tb-win11x-rtx5060-oled-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HyperX OMEN 16",
+    "cpu_model": "Intel Core i7-14650HX",
+    "benchmark_score": 33200,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5070",
+    "gpu_benchmark": 20500,
+    "gpu_tgp": 115,
+    "battery_capacity": 70,
+    "battery_time": 6,
+    "display_type": "OLED",
+    "display_resolution": 1600,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 2.48,
+    "price": 6999,
+    "description": "Laptop gamingowy do wymagających gier, montażu i grafiki.",
+    "image_url": "images/laptops/HyperX OMEN 16.png",
+    "store_url": "https://www.x-kom.pl/p/1520240-laptop-15-16-hyperx-omen-16-i7-14650hx-16gb-512-win11x-rtx5070-oled-165hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 7199,
+        "store_url": "https://www.x-kom.pl/p/1520243-laptop-15-16-hyperx-omen-16-i7-14650hx-16gb-512512-win11x-rtx5070-oled-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 7999,
+        "store_url": "https://www.x-kom.pl/p/1520242-laptop-15-16-hyperx-omen-16-i7-14650hx-32gb-512-win11x-rtx5070-oled-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 8199,
+        "store_url": "https://www.x-kom.pl/p/1520245-laptop-15-16-hyperx-omen-16-i7-14650hx-32gb-512512-win11x-rtx5070-oled-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 9099,
+        "store_url": "https://www.x-kom.pl/p/1520259-laptop-15-16-hyperx-omen-16-i7-14650hx-32gb-2tb-win11x-rtx5070-oled-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook X Flip 16",
+    "cpu_model": "Intel Core Ultra 7 355",
+    "benchmark_score": 20100,
+    "ram": 24,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 4500,
+    "gpu_tgp": null,
+    "battery_capacity": 76,
+    "battery_time": 24,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.85,
+    "price": 6999,
+    "description": "Laptop konwertowalny z dotykowym OLED do pracy i nauki.",
+    "image_url": "images/laptops/HP Omnibook X FLIP 16 Ultra 7.png",
+    "store_url": "https://www.x-kom.pl/p/1519950-laptop-15-16-hp-omnibook-x-flip-16-ultra-7-355-24gb-512-win11-touch-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo ThinkPad E16 G4",
+    "cpu_model": "Intel Core Ultra 5 325",
+    "benchmark_score": 19600,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 4800,
+    "gpu_tgp": null,
+    "battery_capacity": null,
+    "battery_time": null,
+    "display_type": null,
+    "display_resolution": null,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.63,
+    "price": 7799,
+    "description": "Lenovo ThinkPad E16 G4 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/Lenovo ThinkPad E16 G4.png",
+    "store_url": "https://www.x-kom.pl/p/1580396-laptop-15-16-lenovo-thinkpad-e16-g4-ultra-5-325-16gb-512-win11p.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS Zenbook A16",
+    "cpu_model": "Qualcomm Snapdragon X2 Elite",
+    "benchmark_score": 44896,
+    "ram": 24,
+    "storage": 512,
+    "gpu_model": "Qualcomm Adreno X2-90",
+    "gpu_benchmark": 7800,
+    "gpu_tgp": null,
+    "battery_capacity": 70,
+    "battery_time": 14,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.2,
+    "price": 7999,
+    "description": "ASUS Zenbook A16 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/ASUS Zenbook A16.png",
+    "store_url": "https://www.x-kom.pl/p/1610558-laptop-15-16-asus-zenbook-a16-snapdragon-x2e-94-100-24gb-512-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS Zenbook S16",
+    "cpu_model": "AMD Ryzen AI 7 445",
+    "benchmark_score": 18315,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3630,
+    "gpu_tgp": null,
+    "battery_capacity": 83,
+    "battery_time": 14,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.5,
+    "price": 7499,
+    "description": "ASUS Zenbook S16 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/ASUS Zenbook S16.png",
+    "store_url": "https://www.x-kom.pl/p/1610556-laptop-15-16-asus-zenbook-s16-ryzen-ai-7-445-16gb-1tb-win11-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dream Machines RG5060-15PL33",
+    "cpu_model": "Intel Core i9-14900HX",
+    "benchmark_score": 43500,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17800,
+    "gpu_tgp": 115,
+    "battery_capacity": 53,
+    "battery_time": 4,
+    "display_type": "IPS",
+    "display_resolution": 1440,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.25,
+    "price": 7799,
+    "description": "Dream Machines RG5060-15PL33 to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/Dream Machines RG5060-15PL33.png",
+    "store_url": "https://www.x-kom.pl/p/1609157-laptop-15-16-dream-machines-rg5060-15pl33-i9-14900hx-16gb-1tb-rtx5060-win11x-165hz.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo ThinkBook 16 G8",
+    "cpu_model": "Intel Core Ultra 7 255H",
+    "benchmark_score": 30750,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Arc 140T",
+    "gpu_benchmark": 6580,
+    "gpu_tgp": null,
+    "battery_capacity": 45,
+    "battery_time": 13,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.7,
+    "price": 8499,
+    "description": "Lenovo ThinkBook 16 G8 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/Lenovo ThinkBook 16 G8.png",
+    "store_url": "https://www.x-kom.pl/p/1618679-laptop-15-16-lenovo-thinkbook-16-g8-ultra-7-255h-32gb-1tb-win11p.html",
+    "variants": []
+  },
+  {
+    "name": "HP OmniBook X Flip 16",
+    "cpu_model": "AMD Ryzen AI 9 465",
+    "benchmark_score": 29315,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "AMD Radeon 880M",
+    "gpu_benchmark": 7600,
+    "gpu_tgp": null,
+    "battery_capacity": 76,
+    "battery_time": 21,
+    "display_type": "OLED",
+    "display_resolution": 1800,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.85,
+    "price": 8499,
+    "description": "HP OmniBook X Flip 16 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/HP OmniBook X Flip 16.png",
+    "store_url": "https://www.x-kom.pl/p/1519951-laptop-15-16-hp-omnibook-x-flip-16-ryzen-ai-9-465-32gb-1tb-win11-touch-oled.html",
+    "variants": []
+  },
+  {
+    "name": "Dream Machines RT5070-15PL29",
+    "cpu_model": "AMD Ryzen 7 H 255",
+    "benchmark_score": 28300,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070",
+    "gpu_benchmark": 20500,
+    "gpu_tgp": 115,
+    "battery_capacity": 53,
+    "battery_time": 4,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.25,
+    "price": 8799,
+    "description": "Dream Machines RT5070-15PL29 to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/Dream Machines RT5070-15PL29.png",
+    "store_url": "https://www.x-kom.pl/p/1609167-laptop-15-16-dream-machines-rt5070-15pl29-ryzen-7-h255-32gb-1tb-rtx5070-win11x-144hz.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo Legion Pro 5-16",
+    "cpu_model": "Intel Core Ultra 9 275HX",
+    "benchmark_score": 55700,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17800,
+    "gpu_tgp": 115,
+    "battery_capacity": 80,
+    "battery_time": 5,
+    "display_type": "OLED",
+    "display_resolution": 1600,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 2.43,
+    "price": 9099,
+    "description": "Lenovo Legion Pro 5-16 to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/Lenovo Legion Pro 5-16.png",
+    "store_url": "https://www.x-kom.pl/p/1612729-laptop-15-16-lenovo-legion-pro-5-16-core-9-275hx-32gb-1tb-win11-rtx5060.html",
+    "variants": []
+  },
+  {
+    "name": "Gigabyte GAMING A16 PRO",
+    "cpu_model": "Intel Core 7 240H",
+    "benchmark_score": 23980,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070 Ti",
+    "gpu_benchmark": 22600,
+    "gpu_tgp": 115,
+    "battery_capacity": 76,
+    "battery_time": 12,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 2.3,
+    "price": 9399,
+    "description": "Gigabyte GAMING A16 PRO to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/Gigabyte GAMING A16 PRO.png",
+    "store_url": "https://www.x-kom.pl/p/1364869-laptop-15-16-gigabyte-gaming-a16-pro-core-7-240h-32gb-1tb-w11-rtx5070ti-165hz.html",
+    "variants": []
+  },
+  {
+    "name": "Dell Pro 16",
+    "cpu_model": "Intel Core Ultra 7 255U",
+    "benchmark_score": 17850,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 45,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 16,
+    "system": "Windows",
+    "weight": 1.91,
+    "price": 9599,
+    "description": "Dell Pro 16 to laptop przeznaczony do pracy, nauki i codziennych zadań.",
+    "image_url": "images/laptops/Dell Pro 16.png",
+    "store_url": "https://www.x-kom.pl/p/1341299-laptop-15-16-dell-pro-16-ultra-7-255u-32gb-1tb-w11pro.html",
+    "variants": []
+  },
+  {
+    "name": "Dream Machines RG5070-15PL29",
+    "cpu_model": "Intel Core Ultra 9 290HX",
+    "benchmark_score": 59300,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070",
+    "gpu_benchmark": 20500,
+    "gpu_tgp": 115,
+    "battery_capacity": 53,
+    "battery_time": 5,
+    "display_type": "IPS",
+    "display_resolution": 1440,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.4,
+    "price": 9599,
+    "description": "Dream Machines RG5070-15PL29 to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/Dream Machines RG5070-15PL29.png",
+    "store_url": "https://www.x-kom.pl/p/1609158-laptop-15-16-dream-machines-rg5070-15pl29-ultra-9-290hx-16gb-1tb-rtx5070-win11x-165hz.html",
+    "variants": []
+  },
+  {
+    "name": "MSI Katana 15 HX",
+    "cpu_model": "Intel Core i9-14900HX",
+    "benchmark_score": 43975,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070",
+    "gpu_benchmark": 20500,
+    "gpu_tgp": 115,
+    "battery_capacity": 60,
+    "battery_time": 7,
+    "display_type": "IPS",
+    "display_resolution": 1440,
+    "display_size": 15.6,
+    "system": "Windows",
+    "weight": 2.1,
+    "price": 9999,
+    "description": "MSI Katana 15 HX to laptop przeznaczony przede wszystkim do gier, pracy kreatywnej i wymagających aplikacji.",
+    "image_url": "images/laptops/MSI Katana 15 HX.png",
+    "store_url": "https://www.x-kom.pl/p/1620039-laptop-15-16-msi-katana-15-hx-i9-14900hx-16gb-1tb-win11-rtx5070-165hz.html",
+    "variants": [
+       {
+        "ram": 32,
+        "storage": 1000,
+        "price": 11599,
+        "store_url": "https://www.x-kom.pl/p/1620040-laptop-15-16-msi-katana-15-hx-i9-14900hx-32gb-1tb-win11-rtx5070-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1000,
+        "price": 12999,
+        "store_url": "https://www.x-kom.pl/p/1620041-laptop-15-16-msi-katana-15-hx-i9-14900hx-64gb-1tb-win11-rtx5070-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3-17",
+    "cpu_model": "Intel Core 3 304",
+    "benchmark_score": 12260,
+    "ram": 8,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 2200,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 18,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.03,
+    "price": 2999,
+    "description": "Laptop Lenovo IdeaPad Slim 3 17 z procesorem Intel Core 3 304, 8 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/Lenovo IdeaPad Slim 3-17.png",
+    "store_url": "https://www.x-kom.pl/p/1612722-laptop-173-i-wieksze-lenovo-ideapad-slim-3-17-core-3-304-8gb-512-win11x.html",
+    "variants": []
+  },
+  {
+    "name": "HP OmniBook 3 17",
+    "cpu_model": "AMD Ryzen 5 40",
+    "benchmark_score": 9330,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 610M",
+    "gpu_benchmark": 1260,
+    "gpu_tgp": null,
+    "battery_capacity": 41,
+    "battery_time": 19,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.01,
+    "price": 2999,
+    "description": "Laptop HP OmniBook 3 17 z procesorem AMD Ryzen 5 40, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/HP OmniBook 3 17.png",
+    "store_url": "https://www.x-kom.pl/p/1519931-laptop-173-i-wieksze-hp-omnibook-3-17-ryzen-5-40-16gb-512-win11.html",
+    "variants": []
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3-17",
+    "cpu_model": "Intel Core 5 320",
+    "benchmark_score": 15420,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 4000,
+    "gpu_tgp": null,
+    "battery_capacity": 60,
+    "battery_time": 18,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.03,
+    "price": 3399,
+    "description": "Laptop Lenovo IdeaPad Slim 3 17 z procesorem Intel Core 5 320, 16 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/Lenovo IdeaPad Slim 3-17.png",
+    "store_url": "https://www.x-kom.pl/p/1612732-laptop-173-i-wieksze-lenovo-ideapad-slim-3-17-core-5-320-16gb-512-win11.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS Vivobook 17",
+    "cpu_model": "Intel Core 7 150U",
+    "benchmark_score": 14640,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Iris Xe Graphics G7",
+    "gpu_benchmark": 3000,
+    "gpu_tgp": null,
+    "battery_capacity": 50,
+    "battery_time": 7,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.1,
+    "price": 3699,
+    "description": "Laptop ASUS Vivobook 17 z procesorem Intel Core 7 150U, 16 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/ASUS Vivobook 17.png",
+    "store_url": "https://www.x-kom.pl/p/1571109-laptop-173-i-wieksze-asus-vivobook-17-core-7-150u-16gb-512-win11.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Aspire Lite 17",
+    "cpu_model": "Intel Core Ultra 7 155U",
+    "benchmark_score": 16100,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 3270,
+    "gpu_tgp": null,
+    "battery_capacity": 58,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.0,
+    "price": 4299,
+    "description": "Laptop Acer Aspire Lite 17 z procesorem Intel Core Ultra 7 155U, 16 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/Acer Aspire Lite 17.png",
+    "store_url": "https://www.x-kom.pl/p/1599005-laptop-173-i-wieksze-acer-aspire-lite-17-ultra-7-155u-16gb-512-win11.html",
+    "variants": []
+  },
+  {
+    "name": "HP OmniBook 7 17",
+    "cpu_model": "Intel Core Ultra 5 226V",
+    "benchmark_score": 17965,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Intel Arc Graphics 130V",
+    "gpu_benchmark": 4520,
+    "gpu_tgp": null,
+    "battery_capacity": 83,
+    "battery_time": 12,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.34,
+    "price": 4799,
+    "description": "Laptop HP OmniBook 7 17 z procesorem Intel Core Ultra 5 226V, 16 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/HP OmniBook 7 17.png",
+    "store_url": "https://www.x-kom.pl/p/1519937-laptop-173-i-wieksze-hp-omnibook-7-17-ultra-5-226v-16gb-512-win11-touch.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS Vivobook 18",
+    "cpu_model": "AMD Ryzen AI 7 445",
+    "benchmark_score": 18315,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "AMD Radeon 840M",
+    "gpu_benchmark": 3630,
+    "gpu_tgp": null,
+    "battery_capacity": 70,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 2.6,
+    "price": 5199,
+    "description": "Laptop ASUS Vivobook 18 z procesorem AMD Ryzen AI 7 445, 16 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/ASUS Vivobook 18.png",
+    "store_url": "https://www.x-kom.pl/p/1517816-laptop-173-i-wieksze-asus-vivobook-18-ryzen-7-ai-445-16gb-512-win11.html",
+    "variants": []
+  },
+  {
+    "name": "Gigabyte GAMING A18",
+    "cpu_model": "AMD Ryzen 7 260",
+    "benchmark_score": 27920,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 14500,
+    "gpu_tgp": 85,
+    "battery_capacity": 76,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 2.8,
+    "price": 5499,
+    "description": "Laptop Gigabyte GAMING A18 z procesorem AMD Ryzen 7 260, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/Gigabyte GAMING A18.png",
+    "store_url": "https://www.x-kom.pl/p/1479515-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-16gb-512-win11-rtx5050-165hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 6199,
+        "store_url": "https://www.x-kom.pl/p/1528467-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-16gb-1tb-win11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 6499,
+        "store_url": "https://www.x-kom.pl/p/1503062-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-32gb-512-win11-rtx5050-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 512,
+        "price": 8199,
+        "store_url": "https://www.x-kom.pl/p/1503064-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-64gb-512-win11-rtx5050-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook 7 17",
+    "cpu_model": "Intel Core Ultra 7 258V",
+    "benchmark_score": 20150,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Arc Graphics 140V",
+    "gpu_benchmark": 5150,
+    "gpu_tgp": null,
+    "battery_capacity": 83,
+    "battery_time": 12,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.34,
+    "price": 5799,
+    "description": "Laptop HP OmniBook 7 17 z procesorem Intel Core Ultra 7 258V, 32 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/HP OmniBook 7 17.png",
+    "store_url": "https://www.x-kom.pl/p/1519938-laptop-173-i-wieksze-hp-omnibook-7-17-ultra-7-258v-32gb-1tb-win11-touch.html",
+    "variants": []
+  },
+  {
+    "name": "ASUS TUF Gaming A18",
+    "cpu_model": "AMD Ryzen 7 260",
+    "benchmark_score": 27900,
+    "ram": 16,
+    "storage": 1512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 16200,
+    "gpu_tgp": 115,
+    "battery_capacity": 90,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1200,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 2.6,
+    "price": 6399,
+    "description": "Laptop ASUS TUF Gaming A18 z procesorem AMD Ryzen 7 260, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/ASUS TUF Gaming A18.png",
+    "store_url": "https://www.x-kom.pl/p/1472108-laptop-173-i-wieksze-asus-tuf-gaming-a18-ryzen-7-260-16gb-1tb512-win11-rtx5050-144hz.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 8199,
+        "store_url": "https://www.x-kom.pl/p/1472105-laptop-173-i-wieksze-asus-tuf-gaming-a18-ryzen-7-260-32gb-512512-win11-rtx5050-144hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Gigabyte GAMING A18",
+    "cpu_model": "AMD Ryzen 7 260",
+    "benchmark_score": 27900,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 17000,
+    "gpu_tgp": 85,
+    "battery_capacity": 76,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 2.8,
+    "price": 6349,
+    "description": "Laptop Gigabyte GAMING A18 z procesorem AMD Ryzen 7 260, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/Gigabyte GAMING A18.png",
+    "store_url": "https://www.x-kom.pl/p/1368647-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-16gb-512-w11x-rtx5060-165hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6999,
+        "store_url": "https://www.x-kom.pl/p/1368651-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-16gb-1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2048,
+        "price": 7749,
+        "store_url": "https://www.x-kom.pl/p/1368655-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-16gb-1tb1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 7049,
+        "store_url": "https://www.x-kom.pl/p/1368648-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-32gb-512-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1024,
+        "price": 7149,
+        "store_url": "https://www.x-kom.pl/p/1472991-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-32gb-512512-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2048,
+        "price": 7449,
+        "store_url": "https://www.x-kom.pl/p/1368656-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-32gb-1tb1tb-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 512,
+        "price": 7949,
+        "store_url": "https://www.x-kom.pl/p/1418082-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-64gb-512-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1024,
+        "price": 8049,
+        "store_url": "https://www.x-kom.pl/p/1473050-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-64gb-512512-w11x-rtx5060-165hz.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2048,
+        "price": 9499,
+        "store_url": "https://www.x-kom.pl/p/1418086-laptop-173-i-wieksze-gigabyte-gaming-a18-ryzen-7-260-64gb-1tb1tb-w11x-rtx5060-165hz.html"
+      }
+    ]
+  },
+  {
+    "name": "Dream Machines RT5050-17PL27",
+    "cpu_model": "AMD Ryzen 7 H 255",
+    "benchmark_score": 28300,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "NVIDIA GeForce RTX 5050",
+    "gpu_benchmark": 16200,
+    "gpu_tgp": 115,
+    "battery_capacity": 53,
+    "battery_time": 5,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.65,
+    "price": 6699,
+    "description": "Laptop Dream Machines RT5050-17PL27 z procesorem AMD Ryzen 7 H 255, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/Dream Machines RT5050-17PL27.png",
+    "store_url": "https://www.x-kom.pl/p/1609193-laptop-173-i-wieksze-dream-machines-rt5050-17pl27-ryzen-7-h255-16gb-512gb-rtx5050-win11x-144hz.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1024,
+        "price": 6899,
+        "store_url": "https://www.x-kom.pl/p/1609194-laptop-173-i-wieksze-dream-machines-rt5050-17pl28-ryzen-7-h255-16gb-1tb-rtx5050-win11x-144hz.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook X 17",
+    "cpu_model": "Intel Core Ultra 7 356H",
+    "benchmark_score": 34400,
+    "ram": 24,
+    "storage": 1000,
+    "gpu_model": "Intel Graphics",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 76,
+    "battery_time": 8,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.39,
+    "price": 7499,
+    "description": "Laptop HP OmniBook X 17 z procesorem Intel Core Ultra 7 356H, 24 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/HP OmniBook X 17.png",
+    "store_url": "https://www.x-kom.pl/p/1519941-laptop-173-i-wieksze-hp-omnibook-x-17-ultra-7-356h-24gb-1tb-win11-touch.html",
+    "variants": []
+  },
+  {
+    "name": "HP OMEN 17",
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "benchmark_score": 25015,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 16800,
+    "gpu_tgp": 115,
+    "battery_capacity": 83,
+    "battery_time": 7,
+    "display_type": "IPS",
+    "display_resolution": 1440,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.95,
+    "price": 7499,
+    "description": "Laptop HP OMEN 17 z procesorem AMD Ryzen AI 7 350, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/HP OMEN 17.png",
+    "store_url": "https://www.x-kom.pl/p/1349477-laptop-173-i-wieksze-hp-omen-17-ryzen-ai-7-350-16gb-1tb-win11x-rtx5060.html",
+    "variants": []
+  },
+  {
+    "name": "Acer Nitro V17 AI",
+    "cpu_model": "AMD Ryzen AI 9 365",
+    "benchmark_score": 30350,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070",
+    "gpu_benchmark": 18500,
+    "gpu_tgp": 85,
+    "battery_capacity": 76,
+    "battery_time": 10,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.71,
+    "price": 7999,
+    "description": "Laptop Acer Nitro V17 AI z procesorem AMD Ryzen AI 9 365, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/Acer Nitro V17 AI.png",
+    "store_url": "https://www.x-kom.pl/p/1536527-laptop-173-i-wieksze-acer-nitro-v17-ai-ryzen-ai-9-365-16gb-1tb-win11-rtx5070.html",
+    "variants": []
+  },
+  {
+    "name": "MSI Crosshair 18 HX AI",
+    "cpu_model": "Intel Core Ultra 7 251HX",
+    "benchmark_score": 48700,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 16800,
+    "gpu_tgp": 115,
+    "battery_capacity": 90,
+    "battery_time": 11,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 3.1,
+    "price": 8199,
+    "description": "Laptop MSI Crosshair 18 HX AI z procesorem Intel Core Ultra 7 251HX, 16 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/MSI Crosshair 18 HX AI.png",
+    "store_url": "https://www.x-kom.pl/p/1541256-laptop-173-i-wieksze-msi-crosshair-18-hx-ai-ultra-7-251hx-16gb-1tb-win11x-rtx5060.html",
+    "variants": [
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 9099,
+        "store_url": "https://www.x-kom.pl/p/1541257-laptop-173-i-wieksze-msi-crosshair-18-hx-ai-ultra-7-251hx-24gb-1tb-win11x-rtx5060.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 9799,
+        "store_url": "https://www.x-kom.pl/p/1541259-laptop-173-i-wieksze-msi-crosshair-18-hx-ai-ultra-7-251hx-24gb-2tb-win11x-rtx5060.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 9999,
+        "store_url": "https://www.x-kom.pl/p/1541258-laptop-173-i-wieksze-msi-crosshair-18-hx-ai-ultra-7-251hx-32gb-1tb-win11x-rtx5060.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 10699,
+        "store_url": "https://www.x-kom.pl/p/1541260-laptop-173-i-wieksze-msi-crosshair-18-hx-ai-ultra-7-251hx-32gb-2tb-win11x-rtx5060.html"
+      }
+    ]
+  },
+  {
+    "name": "Acer Predator Helios Neo 18",
+    "cpu_model": "Intel Core Ultra 7 255HX",
+    "benchmark_score": 48000,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5060",
+    "gpu_benchmark": 16785,
+    "gpu_tgp": 100,
+    "battery_capacity": 90,
+    "battery_time": 6,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 3.3,
+    "price": 8249,
+    "description": "Laptop Acer Predator Helios Neo 18 z procesorem Intel Core Ultra 7 255HX, 32 GB RAM i dyskiem SSD. Przeznaczony do gier i wymagających zastosowań graficznych.",
+    "image_url": "images/laptops/Acer Predator Helios Neo 18.png",
+    "store_url": "https://www.x-kom.pl/p/1479500-laptop-173-i-wieksze-acer-predator-helios-neo-18-u7-255hx-32gb-1tb-w11-rtx5060.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 8649,
+        "store_url": "https://www.x-kom.pl/p/1479652-laptop-173-i-wieksze-acer-predator-helios-neo-18-u7-255hx-32gb-2tb-w11-rtx5060.html"
+      },
+      {
+        "ram": 64,
+        "storage": 1000,
+        "price": 9649,
+        "store_url": "https://www.x-kom.pl/p/1479649-laptop-173-i-wieksze-acer-predator-helios-neo-18-u7-255hx-64gb-1tb-w11-rtx5060.html"
+      },
+      {
+        "ram": 64,
+        "storage": 2000,
+        "price": 9949,
+        "store_url": "https://www.x-kom.pl/p/1479653-laptop-173-i-wieksze-acer-predator-helios-neo-18-u7-255hx-64gb-2tb-w11-rtx5060.html"
+      }
+    ]
+  },
+  {
+    "name": "HP OmniBook X 17",
+    "cpu_model": "Intel Core Ultra X7 358H",
+    "benchmark_score": 33560,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "Intel Arc B390",
+    "gpu_benchmark": 9500,
+    "gpu_tgp": null,
+    "battery_capacity": 76,
+    "battery_time": 13,
+    "display_type": "IPS",
+    "display_resolution": 1080,
+    "display_size": 17.3,
+    "system": "Windows",
+    "weight": 2.39,
+    "price": 8499,
+    "description": "Laptop HP OmniBook X 17 z procesorem Intel Core Ultra X7 358H, 32 GB RAM i dyskiem SSD. Przeznaczony do codziennej pracy, nauki i multimediów.",
+    "image_url": "images/laptops/HP OmniBook X 17.png",
+    "store_url": "https://www.x-kom.pl/p/1519943-laptop-173-i-wieksze-hp-omnibook-x-17-ultra-x7-358h-32gb-1tb-win11-touch.html",
+    "variants": []
+  },
+  {
+    "name": "Gigabyte GAMING A18 PRO",
+    "cpu_model": "Intel Core 7 240H",
+    "benchmark_score": 23980,
+    "ram": 32,
+    "storage": 1000,
+    "gpu_model": "NVIDIA GeForce RTX 5070Ti",
+    "gpu_benchmark": 22560,
+    "gpu_tgp": 115,
+    "battery_capacity": 76,
+    "battery_time": 12,
+    "display_type": "IPS",
+    "display_resolution": 1600,
+    "display_size": 18.0,
+    "system": "Windows",
+    "weight": 2.9,
+    "price": 9999,
+    "description": "Dla graczy i twórców pracujących głównie przy biurku, którzy szukają dużego ekranu bez zewnętrznego monitora.",
+    "image_url": "images/laptops/Gigabyte GAMING A18 PRO.png",
+    "store_url": "https://www.x-kom.pl/p/1507777-laptop-173-i-wieksze-gigabyte-gaming-a18-pro-core-7-240h-32gb-1tb-win11-rtx5070ti-165hz.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 10799,
+        "store_url": "https://www.x-kom.pl/p/1507778-laptop-173-i-wieksze-gigabyte-gaming-a18-pro-core-7-240h-32gb-1tb1tb-win11-rtx5070ti-165h.html"
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Neo",
+    "cpu_model": "Apple A18 Pro",
+    "benchmark_score": 12805,
+    "ram": 8,
+    "storage": 256,
+    "gpu_model": "Apple A18 Pro",
+    "gpu_benchmark": 5500,
+    "gpu_tgp": null,
+    "battery_capacity": 36,
+    "battery_time": 16,
+    "display_type": "IPS",
+    "display_resolution": 1506,
+    "display_size": 13.0,
+    "system": "macOS",
+    "weight": 1.23,
+    "price": 3499,
+    "description": "Lekki laptop do nauki, pracy biurowej i codziennych zastosowań, wyposażony w ekran Liquid Retina.",
+    "image_url": "images/laptops/Apple MacBook Neo.png",
+    "store_url": "https://www.x-kom.pl/p/1507104-laptop-133-i-mniejsze-apple-macbook-neo-a18-pro-8gb-256-mac-os-srebrny.html",
+    "variants": [
+      {
+        "ram": 8,
+        "storage": 512,
+        "price": 4099,
+        "store_url": "https://www.x-kom.pl/p/1507108-laptop-133-i-mniejsze-apple-macbook-neo-a18-pro-8gb-512-mac-os-touchid-srebrny.html"
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Air M5",
+    "cpu_model": "Apple M5",
+    "benchmark_score": 26773,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Apple M5 (10 rdzeni GPU)",
+    "gpu_benchmark": 11000,
+    "gpu_tgp": null,
+    "battery_capacity": 54,
+    "battery_time": 18,
+    "display_type": "IPS",
+    "display_resolution": 1664,
+    "display_size": 13.6,
+    "system": "macOS",
+    "weight": 1.23,
+    "price": 6799,
+    "description": "Smukły, energooszczędny laptop do nauki, programowania i mobilnej pracy kreatywnej.",
+    "image_url": "images/laptops/Apple MacBook Air M5.png",
+    "store_url": "https://www.x-kom.pl/p/1505868-laptop-133-i-mniejsze-apple-macbook-air-m5-16gb-512-mac-os-srebrny-8r-gpu.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 7499,
+        "store_url": "https://www.x-kom.pl/p/1506316-laptop-133-i-mniejsze-apple-macbook-air-m5-16gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 10799,
+        "store_url": "https://www.x-kom.pl/p/1588970-laptop-133-i-mniejsze-apple-macbook-air-m5-16gb-2tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 8299,
+        "store_url": "https://www.x-kom.pl/p/1506304-laptop-133-i-mniejsze-apple-macbook-air-m5-24gb-512-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 8399,
+        "store_url": "https://www.x-kom.pl/p/1506340-laptop-133-i-mniejsze-apple-macbook-air-m5-24gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 11299,
+        "store_url": "https://www.x-kom.pl/p/1506364-laptop-133-i-mniejsze-apple-macbook-air-m5-24gb-2tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 8299,
+        "store_url": "https://www.x-kom.pl/p/1506328-laptop-133-i-mniejsze-apple-macbook-air-m5-32gb-512-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 9499,
+        "store_url": "https://www.x-kom.pl/p/1506352-laptop-133-i-mniejsze-apple-macbook-air-m5-32gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 12299,
+        "store_url": "https://www.x-kom.pl/p/1506376-laptop-133-i-mniejsze-apple-macbook-air-m5-32gb-2tb-mac-os-srebrny-10r-gpu.html"
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Air M5",
+    "cpu_model": "Apple M5",
+    "benchmark_score": 26773,
+    "ram": 16,
+    "storage": 512,
+    "gpu_model": "Apple M5 (10 rdzeni GPU)",
+    "gpu_benchmark": 11000,
+    "gpu_tgp": null,
+    "battery_capacity": 54,
+    "battery_time": 18,
+    "display_type": "IPS",
+    "display_resolution": 1664,
+    "display_size": 15.3,
+    "system": "macOS",
+    "weight": 1.51,
+    "price": 7299,
+    "description": "Smukły, energooszczędny laptop do nauki, programowania i mobilnej pracy kreatywnej, z większym ekranem od podstawowego modelu.",
+    "image_url": "images/laptops/Apple MacBook Air M5.png",
+    "store_url": "https://www.x-kom.pl/p/1506388-laptop-15-16-apple-macbook-air-m5-16gb-512-mac-os-srebrny-10r-gpu.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 1000,
+        "price": 8499,
+        "store_url": "https://www.x-kom.pl/p/1506412-laptop-15-16-apple-macbook-air-m5-16gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 11799,
+        "store_url": "https://www.x-kom.pl/p/1589326-laptop-15-16-apple-macbook-air-m5-16gb-2tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 512,
+        "price": 8299,
+        "store_url": "https://www.x-kom.pl/p/1506400-laptop-15-16-apple-macbook-air-m5-24gb-512-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 9799,
+        "store_url": "https://www.x-kom.pl/p/1506436-laptop-15-16-apple-macbook-air-m5-24gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 12599,
+        "store_url": "https://www.x-kom.pl/p/1506460-laptop-15-16-apple-macbook-air-m5-24gb-2tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 512,
+        "price": 9299,
+        "store_url": "https://www.x-kom.pl/p/1506424-laptop-15-16-apple-macbook-air-m5-32gb-512-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 11099,
+        "store_url": "https://www.x-kom.pl/p/1506448-laptop-15-16-apple-macbook-air-m5-32gb-1tb-mac-os-srebrny-10r-gpu.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 13599,
+        "store_url": "https://www.x-kom.pl/p/1506472-laptop-15-16-apple-macbook-air-m5-32gb-2tb-mac-os-srebrny-10r-gpu.html"
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Pro 14 M5",
+    "cpu_model": "Apple M5",
+    "benchmark_score": 26773,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "Apple M5 (10 rdzeni GPU)",
+    "gpu_benchmark": 11000,
+    "gpu_tgp": null,
+    "battery_capacity": 72,
+    "battery_time": 24,
+    "display_type": "OLED",
+    "display_resolution": 1964,
+    "display_size": 14.2,
+    "system": "macOS",
+    "weight": 1.55,
+    "price": 8499,
+    "description": "Laptop klasy profesjonalnej z ekranem Liquid Retina XDR, przeznaczony do pracy twórczej i wymagających zadań.",
+    "image_url": "images/laptops/Apple MacBook Pro 14 M5.png",
+    "store_url": "https://www.x-kom.pl/p/1370408-laptop-14-apple-macbook-pro-m5-16gb-1tb-mac-os-srebrny-10r-gpu.html",
+    "variants": [
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 14499,
+        "store_url": "https://www.x-kom.pl/p/1606842-laptop-14-apple-macbook-pro-m5-32gb-2tb-mac-os-srebrny-10r-gpu.html"
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Pro 14 M6",
+    "cpu_model": "Apple M6",
+    "benchmark_score": 35870,
+    "ram": 16,
+    "storage": 1000,
+    "gpu_model": "Apple M6 (12 rdzeni GPU)",
+    "gpu_benchmark": 14500,
+    "gpu_tgp": null,
+    "battery_capacity": 72,
+    "battery_time": 24,
+    "display_type": "OLED",
+    "display_resolution": 1964,
+    "display_size": 14.2,
+    "system": "macOS",
+    "weight": 1.55,
+    "price": 10499,
+    "description": "Wydajny MacBook Pro z ekranem Liquid Retina XDR do programowania, montażu i profesjonalnych zastosowań.",
+    "image_url": "images/laptops/Apple MacBook Pro 14 M6.png",
+    "store_url": "https://www.x-kom.pl/p/1619732-laptop-14-apple-macbook-pro-m6-16gb-1tb-mac-os-srebrny.html",
+    "variants": [
+      {
+        "ram": 16,
+        "storage": 2000,
+        "price": 12999,
+        "store_url": "https://www.x-kom.pl/p/1619738-laptop-14-apple-macbook-pro-m6-16gb-2tb-mac-os-srebrny.html"
+      },
+      {
+        "ram": 24,
+        "storage": 1000,
+        "price": 11499,
+        "store_url": "https://www.x-kom.pl/p/1619734-laptop-14-apple-macbook-pro-m6-24gb-1tb-mac-os-srebrny.html"
+      },
+      {
+        "ram": 24,
+        "storage": 2000,
+        "price": 13999,
+        "store_url": "https://www.x-kom.pl/p/1620265-laptop-14-apple-macbook-pro-m6-24gb-2tb-mac-os-srebrny.html"
+      },
+      {
+        "ram": 32,
+        "storage": 1000,
+        "price": 12499,
+        "store_url": "https://www.x-kom.pl/p/1619736-laptop-14-apple-macbook-pro-m6-32gb-1tb-mac-os-srebrny.html"
+      },
+      {
+        "ram": 32,
+        "storage": 2000,
+        "price": 14999,
+        "store_url": "https://www.x-kom.pl/p/1620267-laptop-14-apple-macbook-pro-m6-32gb-2tb-mac-os-srebrny.html"
+      }
+    ]
+  }
+]
